@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: e8f487cfd62e3ce45b069c1cc60afb12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8471477618106288551
+    second: Balance Battle Text3 _0
+  - first:
+      213: -6561923719076280818
+    second: Balance Battle Text3 _1
+  - first:
+      213: 9013609780918012809
+    second: Balance Battle Text3 _2
+  - first:
+      213: -694207923457147758
+    second: Balance Battle Text3 _3
+  - first:
+      213: -1017480738322017057
+    second: Balance Battle Text3 _4
+  - first:
+      213: 5084965344676054846
+    second: Balance Battle Text3 _5
+  - first:
+      213: -6882646407448449558
+    second: Balance Battle Text3 _6
+  - first:
+      213: -4432779780511579432
+    second: Balance Battle Text3 _7
+  - first:
+      213: 8819633098254410590
+    second: Balance Battle Text3 _8
+  - first:
+      213: -8128583372870463897
+    second: Balance Battle Text3 _9
+  - first:
+      213: 56478521868086934
+    second: Balance Battle Text3 _10
+  - first:
+      213: 1422868909975183084
+    second: Balance Battle Text3 _11
+  - first:
+      213: 8242187592017182468
+    second: Balance Battle Text3 _12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Balance Battle Text3 _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9563a1a7df34f6a80800000000000000
+      internalID: -8471477618106288551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 18
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e068f31e42d5fe4a0800000000000000
+      internalID: -6561923719076280818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 83
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bca9fe656c61d70800000000000000
+      internalID: 9013609780918012809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 18
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c331a529dad56f0800000000000000
+      internalID: -694207923457147758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 8
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4938ac8ae21e1f0800000000000000
+      internalID: -1017480738322017057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 18
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3786982a0d619640800000000000000
+      internalID: 5084965344676054846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _6
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 18
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedaa69ee8deb70a0800000000000000
+      internalID: -6882646407448449558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 17
+        width: 109
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c217864a9b72c0800000000000000
+      internalID: -4432779780511579432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e536bbe0391a56a70800000000000000
+      internalID: 8819633098254410590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ec8ec4d78713f80800000000000000
+      internalID: -8128583372870463897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 18
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ee2699ae6a8c000800000000000000
+      internalID: 56478521868086934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 19
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee94052cbb0fb310800000000000000
+      internalID: 1422868909975183084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Balance Battle Text3 _12
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 15
+        width: 171
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff05a22f1226270800000000000000
+      internalID: 8242187592017182468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Balance Battle Text3 _0: -8471477618106288551
+      Balance Battle Text3 _1: -6561923719076280818
+      Balance Battle Text3 _10: 56478521868086934
+      Balance Battle Text3 _11: 1422868909975183084
+      Balance Battle Text3 _12: 8242187592017182468
+      Balance Battle Text3 _2: 9013609780918012809
+      Balance Battle Text3 _3: -694207923457147758
+      Balance Battle Text3 _4: -1017480738322017057
+      Balance Battle Text3 _5: 5084965344676054846
+      Balance Battle Text3 _6: -6882646407448449558
+      Balance Battle Text3 _7: -4432779780511579432
+      Balance Battle Text3 _8: 8819633098254410590
+      Balance Battle Text3 _9: -8128583372870463897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
